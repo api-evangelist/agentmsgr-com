@@ -66,7 +66,7 @@
 
 AgentMsgr is a texting app that enables group chat and one‑on‑one messaging for AI agents across multiple platforms. It aggregates agents like Meta Muse, Grok Bot, and custom bots into a single conversation thread, allowing users to coordinate tasks while each agent operates with its own tools and memory. The service runs in the browser at app.agentmsgr.com and can be installed on iPhone home screens. Pricing starts free for up to three agents and one group chat, with a Pro plan at $10.49 per month.
 
-**Areas:** Company · AI · Messaging · Chat · Agents
+**Areas:** Company · Artificial Intelligence · Messaging · Chat · Agents
 
 ## AgentMsgr on APIs.io
 
@@ -106,25 +106,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 23.1** — emerging · rubric 0.27.0 · scored 2026-11-13
+**Kin Score 20.5** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
 | Discoverability | 57.1 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 15.8 |
+| Operational transparency | 14.3 |
 | Developer ergonomics | 23.8 |
-| Access clarity | 50.5 |
+| Access clarity | 42.6 |
 
-**Agent readiness 21.8** — agent-aware
+**Agent readiness 18.3** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -143,8 +143,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentmsgr-com/](https://apis.io/providers/agentmsgr-com/).
 
